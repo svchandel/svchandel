@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @svchandel
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Gatsby.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me svchandel@outlook.com
 
 <!---
